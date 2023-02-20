@@ -14,7 +14,7 @@ public class CurrencyConverter extends JFrame implements ActionListener {
     private JButton convertButton;
 
     private final String[] currencies = {"USD", "EUR", "GBP", "INR", "CAD", "AUD", "JPY", "CHF", "CNY", "HKD", "KRW", "MXN", "NOK", "NZD", "SEK", "SGD", "THB", "TRY", "ZAR"};
-    private final double[] exchangeRates = {1.0, 0.93, 0.83, 82.77, 1.35, 1.45, 134.12, 0.92, 6.87, 7.85, 1295.84, 18.36, 10.32, 1.60, 10.45, 1.34, 34.45, 18.83, 18.05};
+    private final double[] exchangeRates = {82.77, 88.38, 99.57, 1, 61.48,57.18, 0.616, 89.60, 12.06, 10.55, 0.06, 4.499, 8.07, 1.60, 7.99,  61.93, 2.40, 18.05,4.57};
 
         // Declare arrays for the currency codes and exchange rates
 
