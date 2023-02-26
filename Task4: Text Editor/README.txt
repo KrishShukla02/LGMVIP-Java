@@ -1,0 +1,1 @@
+This project is of Text Editor in Java that performs various actions.
